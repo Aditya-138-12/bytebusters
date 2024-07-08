@@ -13,7 +13,7 @@ body {
 
 .search_input{height:1.5vw; background-color:rgba(255, 255, 255, 1); width:26.5vw; outline:none; border:0px; font-size:0.8vw; border-radius:2vw; margin-top:0.8vw; padding-left:2vw;}
 .search_input::placeholder{font-size:0.81vw; position:absolute; left:2vw;}
-.search-bar-icon{position:absolute; left:0.45vw; top:1.1vw; background-image:url("images/searchIcon2.png"); background-repeat:no-repeat; background-size:cover; height:1vw; width:1vw; border-top-left-radius:50%; border-bottom-left-radius:50%; z-index:1000;}
+.search-bar-icon{position:absolute; left:0.45vw; top:1.1vw; background-image:url("searchIcon2.png"); background-repeat:no-repeat; background-size:cover; height:1vw; width:1vw; border-top-left-radius:50%; border-bottom-left-radius:50%; z-index:1000;}
 
 .heading{height:0.5vw;}
 
@@ -233,8 +233,8 @@ footer {
 .pil2{position:absolute; right:0.9vw; height:35%; width:0.1vw; background-color:rgb(0, 0, 0); transform:rotate(-45deg);}
 
 
-.aiBotDiv{position:fixed; height:1.8vw; width:1.8vw; right:5vw; bottom:4vw; background-image:url("images/ai-button.png"); border: 0.1vw solid rgba(0, 0, 0, 0.2); border-radius: 50%; background-repeat:no-repeat; background-size:60% 60%; cursor:pointer; transition:0.1s ease-out;}
-.aiBotDivimg-2{position: relative; top: -55%; left: 45%; height: 1vw; width: 1vw; background-image:url("images/ai-button.png"); background-repeat:no-repeat; background-size:60% 60%;}
+.aiBotDiv{position:fixed; height:1.8vw; width:1.8vw; right:5vw; bottom:4vw; background-image:url("ai-button.png"); border: 0.1vw solid rgba(0, 0, 0, 0.2); border-radius: 50%; background-repeat:no-repeat; background-size:60% 60%; cursor:pointer; transition:0.1s ease-out;}
+.aiBotDivimg-2{position: relative; top: -55%; left: 45%; height: 1vw; width: 1vw; background-image:url("ai-button.png"); background-repeat:no-repeat; background-size:60% 60%;}
 .aiBotDivLayer{position: relative; height: 100%; width: 100%; left: 0%; top:0vw; border-radius: 50%; z-index:2000;}
 .aiBotDivLayer:hover{background: rgba(0, 0, 0, 0.2); transition:0.1s ease-in;}
 
@@ -244,12 +244,12 @@ footer {
 .aiTextDiv{position:relative; left:1vw; top:0vw; width:99%; margin-top: 0vw; height: max-content; display:flex; align-items:left; justify-content:left; background-color:;}
 .ai-text{position:relative; left:0.5vw; top:-0.1vw; border-radius: 0.5vw; padding:0.5vw; font-size:0.7vw; line-height:1vw;  width:calc(100% - 0.5vw - 2vw - 2vw); font-family: ; color:rgba(19, 19, 19, 0.8);}
 .ai-text:hover{background-color: rgba(0, 0, 0, 0.05);}
-.ai-logo{display:inline-block; width:1.5vw; height:1.5vw; margin-top:0.55vw; background-image:url("images/Loading-Image.gif"); background-repeat:no-repeat; background-size:100% 100%;}
+.ai-logo{display:inline-block; width:1.5vw; height:1.5vw; margin-top:0.55vw; background-image:url("Loading-Image.gif"); background-repeat:no-repeat; background-size:100% 100%;}
 
 .user-test{position:relative; top:0vw; left:1vw; margin-bottom: 0vw; width:99%; height: max-content; display:flex; align-items:left; justify-content:left;}
 .user-text{position:relative; left:0.8vw; top:-0.1vw; font-size:0.7vw; padding:0.5vw; border-radius: 0.5vw; line-height:1vw; width:calc(100% - 0.5vw - 2vw - 2vw); font-family: ; color:rgba(0, 0, 0, 0.8);}
 .user-text:hover{background-color: rgba(0, 0, 0, 0.05);}
-.user-logo{display:inline-block; width:1.3vw; height:1.3vw; margin-top:0.55vw; background-image:url("images/user-logo.png"); background-repeat:no-repeat; background-size:100% 100%;}
+.user-logo{display:inline-block; width:1.3vw; height:1.3vw; margin-top:0.55vw; background-image:url("user-logo.png"); background-repeat:no-repeat; background-size:100% 100%;}
 
 .buyButton{position: fixed; color: black; display: none; justify-content: center; align-items: center; bottom: 2.4vw; right:17.35%; border-radius: 20vw; height: 1.5vw; border: 0.1vw solid rgba(0, 0, 0, 0.2); width: 3.5%; z-index: 3000;}
 
