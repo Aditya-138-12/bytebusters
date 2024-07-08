@@ -233,7 +233,7 @@ footer {
 .pil2{position:absolute; right:0.9vw; height:35%; width:0.1vw; background-color:rgb(0, 0, 0); transform:rotate(-45deg);}
 
 
-.aiBotDiv{position:fixed; height:1.8vw; width:1.8vw; right:5vw; bottom:4vw; background-image:url("ai-button.png"); border: 0.1vw solid rgba(0, 0, 0, 0.2); border-radius: 50%; background-repeat:no-repeat; background-size:60% 60%; cursor:pointer; transition:0.1s ease-out;}
+.aiBotDiv{position:fixed; height:1.8vw; width:1.8vw; right:5vw; bottom:4vw; background-color:white; background-image:url("ai-button.png"); border: 0.1vw solid rgba(0, 0, 0, 0.2); border-radius: 50%; background-repeat:no-repeat; background-size:60% 60%; cursor:pointer; transition:0.1s ease-out;}
 .aiBotDivimg-2{position: relative; top: -55%; left: 45%; height: 1vw; width: 1vw; background-image:url("ai-button.png"); background-repeat:no-repeat; background-size:60% 60%;}
 .aiBotDivLayer{position: relative; height: 100%; width: 100%; left: 0%; top:0vw; border-radius: 50%; z-index:2000;}
 .aiBotDivLayer:hover{background: rgba(0, 0, 0, 0.2); transition:0.1s ease-in;}
