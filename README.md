@@ -1,4 +1,4 @@
-# ByteBusters Web 
+# ByteBusters Web App
 
 Use Here: [ByteBusters](https://aditya-138-12.github.io/bytebusters/)
 
