@@ -2,7 +2,7 @@
 
 Use Here: [ByteBusters](https://aditya-138-12.github.io/bytebusters/)
 
-## Save all the images in a folder Named "images"
+## Save all the images in a folder Named "images".
 
 Ensure that all images used in the project are stored in a directory named `images`.
 
